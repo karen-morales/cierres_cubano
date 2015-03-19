@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14264E31-203A-43A0-9780-C956EE808C24}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CubanoAdmin.My.MyApplication</StartupObject>
+    <RootNamespace>CubanoAdmin</RootNamespace>
+    <AssemblyName>CubanoAdmin</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>2.0.1.1</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CubanoAdmin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CubanoAdmin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>02FFB26390D578332009AF17E41BDB61CC581F95</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>POSCubano_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Custom-Icon-Design-Pretty-Office-11-Shop.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 6.7.4\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="tagcode.xml">
+      <HintPath>C:\Windows\Microsoft.NET\Framework\v4.0.30319\tagcode.xml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="catalogo_tree.Designer.vb">
+      <DependentUpon>catalogo_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="catalogo_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="catalogo_form.Designer.vb">
+      <DependentUpon>catalogo_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="catalogo_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_return_line_tree.Designer.vb">
+      <DependentUpon>order_return_line_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_return_line_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outputs_form.Designer.vb">
+      <DependentUpon>outputs_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="outputs_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outputs_tree.Designer.vb">
+      <DependentUpon>outputs_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="outputs_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_color_form.Designer.vb">
+      <DependentUpon>product_color_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_color_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_form.Designer.vb">
+      <DependentUpon>product_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_tree.Designer.vb">
+      <DependentUpon>product_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="partner_form.Designer.vb">
+      <DependentUpon>partner_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="partner_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="partner_tree.Designer.vb">
+      <DependentUpon>partner_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="partner_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="change_password_form.Designer.vb">
+      <DependentUpon>change_password_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="change_password_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_history_tree.Designer.vb">
+      <DependentUpon>product_history_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_history_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_return_tree.Designer.vb">
+      <DependentUpon>order_return_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_return_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progress_form.Designer.vb">
+      <DependentUpon>progress_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="progress_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase_form.Designer.vb">
+      <DependentUpon>purchase_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="purchase_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase_tree.Designer.vb">
+      <DependentUpon>purchase_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="purchase_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_special_tree.Designer.vb">
+      <DependentUpon>order_special_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_special_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_special_form.Designer.vb">
+      <DependentUpon>order_special_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_special_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.vb">
+      <DependentUpon>loginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventory_shop_form.Designer.vb">
+      <DependentUpon>inventory_shop_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_shop_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mod_experts_generic.vb" />
+    <Compile Include="mod_experts_db.vb" />
+    <Compile Include="order_return_line_form.Designer.vb">
+      <DependentUpon>order_return_line_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_return_line_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_return_process_tree.Designer.vb">
+      <DependentUpon>order_return_process_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="order_return_process_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventory_main_warehouse_tree.Designer.vb">
+      <DependentUpon>inventory_main_warehouse_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_main_warehouse_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventory_shop_tree.Designer.vb">
+      <DependentUpon>inventory_shop_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_shop_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mail_form.Designer.vb">
+      <DependentUpon>mail_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mail_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mail_config.Designer.vb">
+      <DependentUpon>mail_config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mail_config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="invoice_sale_wizard.Designer.vb">
+      <DependentUpon>invoice_sale_wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="invoice_sale_wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="generic_invoice_wizard.Designer.vb">
+      <DependentUpon>generic_invoice_wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="generic_invoice_wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tienda_form.Designer.vb">
+      <DependentUpon>tienda_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tienda_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tienda_tree.Designer.vb">
+      <DependentUpon>tienda_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tienda_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expense_form.Designer.vb">
+      <DependentUpon>expense_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="expense_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="close_day_wizard.Designer.vb">
+      <DependentUpon>close_day_wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="close_day_wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_invoice.Designer.vb">
+      <DependentUpon>report_invoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_invoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="invoice_ticket_wizard.Designer.vb">
+      <DependentUpon>invoice_ticket_wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="invoice_ticket_wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_close_day.Designer.vb">
+      <DependentUpon>report_close_day.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_close_day.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_form.Designer.vb">
+      <DependentUpon>salesman_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_tree.Designer.vb">
+      <DependentUpon>salesman_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expense_tree.Designer.vb">
+      <DependentUpon>expense_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="expense_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_products.Designer.vb">
+      <DependentUpon>report_products.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mod_app.vb" />
+    <Compile Include="pos_form.Designer.vb">
+      <DependentUpon>pos_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pos_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_window.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_window.Designer.vb">
+      <DependentUpon>main_window.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="report_sales.Designer.vb">
+      <DependentUpon>report_sales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sales_tree.Designer.vb">
+      <DependentUpon>sales_tree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sales_tree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="catalogo_tree.resx">
+      <DependentUpon>catalogo_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="catalogo_form.resx">
+      <DependentUpon>catalogo_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_return_line_tree.resx">
+      <DependentUpon>order_return_line_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outputs_form.resx">
+      <DependentUpon>outputs_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outputs_tree.resx">
+      <DependentUpon>outputs_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_color_form.resx">
+      <DependentUpon>product_color_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partner_form.resx">
+      <DependentUpon>partner_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partner_tree.resx">
+      <DependentUpon>partner_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="change_password_form.resx">
+      <DependentUpon>change_password_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_return_tree.resx">
+      <DependentUpon>order_return_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_form.resx">
+      <DependentUpon>product_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_history_tree.resx">
+      <DependentUpon>product_history_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_tree.resx">
+      <DependentUpon>product_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progress_form.resx">
+      <DependentUpon>progress_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchase_form.resx">
+      <DependentUpon>purchase_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchase_tree.resx">
+      <DependentUpon>purchase_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventory_shop_form.resx">
+      <DependentUpon>inventory_shop_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_return_process_tree.resx">
+      <DependentUpon>order_return_process_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventory_main_warehouse_tree.resx">
+      <DependentUpon>inventory_main_warehouse_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventory_shop_tree.resx">
+      <DependentUpon>inventory_shop_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mail_form.resx">
+      <DependentUpon>mail_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invoice_sale_wizard.resx">
+      <DependentUpon>invoice_sale_wizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="generic_invoice_wizard.resx">
+      <DependentUpon>generic_invoice_wizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mail_config.resx">
+      <DependentUpon>mail_config.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_return_line_form.resx">
+      <DependentUpon>order_return_line_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_special_form.resx">
+      <DependentUpon>order_special_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_special_tree.resx">
+      <DependentUpon>order_special_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tienda_form.resx">
+      <DependentUpon>tienda_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tienda_tree.resx">
+      <DependentUpon>tienda_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expense_form.resx">
+      <DependentUpon>expense_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="close_day_wizard.resx">
+      <DependentUpon>close_day_wizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_invoice.resx">
+      <DependentUpon>report_invoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invoice_ticket_wizard.resx">
+      <DependentUpon>invoice_ticket_wizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_close_day.resx">
+      <DependentUpon>report_close_day.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_form.resx">
+      <DependentUpon>salesman_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_tree.resx">
+      <DependentUpon>salesman_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expense_tree.resx">
+      <DependentUpon>expense_tree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_products.resx">
+      <DependentUpon>report_products.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pos_form.resx">
+      <DependentUpon>pos_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_window.resx">
+      <DependentUpon>main_window.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_sales.resx">
+      <DependentUpon>report_sales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sales_tree.resx">
+      <DependentUpon>sales_tree.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Custom-Icon-Design-Pretty-Office-11-Shop.ico" />
+    <Content Include="Custom-Icon-Design-Pretty-Office-3-Product-sales-report.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-5-Catalog.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-8 %281%29.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-7.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-6.ico" />
+    <None Include="Resources\Aha-Soft-Security-Secrecy.ico" />
+    <None Include="Resources\Petalart-Business-Box-download2.ico" />
+    <None Include="Resources\Petalart-Business-Box-download1.ico" />
+    <None Include="Resources\Petalart-Business-Box-download-red2.ico" />
+    <None Include="Resources\Petalart-Business-Box-download-red1.ico" />
+    <None Include="Resources\Petalart-Business-Box-download-red.ico" />
+    <None Include="Resources\Petalart-Business-Box-download.ico" />
+    <None Include="Resources\Franksouza183-Fs-Categories-preferences-system.ico" />
+    <None Include="Resources\Ebiene-E-Commerce-Shopping-bags.ico" />
+    <None Include="Resources\Designbolts-Free-Valentine-Heart-Heart-Doodle.ico" />
+    <None Include="Resources\Double-J-Design-Apple-Festival-App-settings.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-5.ico" />
+    <None Include="Resources\Rud3boy-Mac-Apps-Settings.ico" />
+    <None Include="Resources\Icons-Land-Gis-Gps-Map-ContainerRed.ico" />
+    <None Include="Resources\Igh0zt-Ios7-Style-Metro-Ui-MetroUI-Apps-Live-Sync.ico" />
+    <None Include="Resources\Fasticon-Leopard-Iphone-Group-Folder.ico" />
+    <None Include="Resources\Taytel-Orb-Minus.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-4-Shopping-cart-add.ico" />
+    <None Include="Resources\Iconarchive-Red-Orb-Alphabet-Math-minus.ico" />
+    <None Include="Resources\Icojam-Onebit-Minus.ico" />
+    <None Include="Resources\Custom-Icon-Design-Office-Cart.ico" />
+    <None Include="Resources\Custom-Icon-Design-Office-Add-2.ico" />
+    <None Include="Resources\Fatcow-Farm-Fresh-Chart-curve-add.ico" />
+    <None Include="Resources\Creative-Freedom-Free-Vibrant-Line-Graph.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-8-Users.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-4.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-3.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-2.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Numbers-1.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-6-Backup-restore.ico" />
+    <None Include="Resources\Hamzasaleem-Iwork-Style-2-Numbers.ico" />
+    <None Include="Resources\Custom-Icon-Design-Mini-3-Numbers.ico" />
+    <None Include="Resources\Dapino-Money-Money-Safe-1.ico" />
+    <None Include="Resources\Saki-NuoveXT-2-Apps-users.ico" />
+    <None Include="Resources\Fatcow-Farm-Fresh-Chart-stock.ico" />
+    <None Include="Resources\Kentagon-Ios7-Redesign-Concept-Ios7-stock.ico" />
+    <None Include="Resources\Double-J-Design-Apple-Festival-App-stock.ico" />
+    <None Include="Resources\Petalart-Business-Mail-envelope.ico" />
+    <None Include="Resources\Designbolts-Free-Hand-Stitch-Social-Active-Orkut.ico" />
+    <None Include="Resources\Visualpharm-Icons8-Metro-Style-Users-Administrator.ico" />
+    <None Include="Resources\Webiconset-E-Commerce-Wallet.ico" />
+    <None Include="Resources\Webiconset-E-Commerce-Empty-shopping-cart.ico" />
+    <None Include="Resources\Visualpharm-Finance-Invoice.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-3-Product-sales-report1.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-4-Report.ico" />
+    <None Include="Resources\Tooschee-Misc-Sync.ico" />
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-3-Product-sales-report.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties BuildVersion_BuildVersioningStyle="None.None.Increment.None" BuildVersion_StartDate="2013/5/20" BuildVersion_UpdateAssemblyVersion="True" BuildVersion_UpdateFileVersion="True" BuildVersion_UseGlobalSettings="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

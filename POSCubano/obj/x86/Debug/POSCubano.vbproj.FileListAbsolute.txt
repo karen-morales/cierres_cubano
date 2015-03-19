@@ -1,0 +1,380 @@
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\POSCubano.exe.manifest
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\POSCubano.application
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\POSCubano.exe
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\POSCubano.pdb
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\POSCubano.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\bin\Debug\itextsharp.dll
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.cliente.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.clientes.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.factura.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.facturaGenerica.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.folio.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.folios.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.aperturaDia.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.agregarGastoForm.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.closeDay.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteFinesdeDia.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.sellersAddForm.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.sellersForm.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.gastosForm.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.getPass.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.resetDB.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteProductos.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.Pos.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.main.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteVentas.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.solicitaFolio.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.ventas.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe.licenses
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.TrustInfo.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe.manifest
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.application
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.pdb
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.GenerarFacturaOtros.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteFacturas.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.xml
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.pdb
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.cliente.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.clientes.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.factura.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.facturaGenerica.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.folio.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.folios.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.aperturaDia.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.agregarGastoForm.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.closeDay.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteFacturas.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.GenerarFacturaOtros.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteFinesdeDia.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.sellersAddForm.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.sellersForm.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.gastosForm.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.getPass.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.resetDB.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteProductos.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.Pos.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.main.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.Resources.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.reporteVentas.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.solicitaFolio.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.ventas.resources
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe.licenses
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\POSCubano.exe.manifest
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\POSCubano.application
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\POSCubano.exe
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\POSCubano.pdb
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\POSCubano.xml
+C:\Users\daimon\Desktop\POSCubano\POSCubano\bin\Debug\itextsharp.dll
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.TrustInfo.xml
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.exe.manifest
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.application
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+C:\Users\daimon\Desktop\POSCubano\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\itextsharp.dll
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.config
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.manifest
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.application
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.pdb
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_color_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.change_password_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_history_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.progress_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.loginForm.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_main_warehouse_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_sale_wizard.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.generic_invoice_wizard.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_config.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.close_day_wizard.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_invoice.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_ticket_wizard.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_close_day.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_products.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pos_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.main_window.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.application
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.xml
+D:\Documentos\Dropbox\Desarrollo\Desarrollo windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pdb
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\bin\Debug\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_process_tree.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.exe.config
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.pdb
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.pdb
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\itextsharp.dll
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\bin\Debug\MySql.Data.dll
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.product_color_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.partner_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.partner_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.change_password_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.product_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.product_history_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.product_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.progress_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.loginForm.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_process_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_main_warehouse_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.mail_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_sale_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.generic_invoice_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.mail_config.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.expense_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.close_day_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.report_invoice.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_ticket_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.report_close_day.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.expense_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.report_products.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.pos_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.main_window.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Documents\POSCubano_cfdi_v3\POSCubano\obj\x86\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\itextsharp.dll
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_form.resources
+D:\Documentos\Dropbox\Desarrollo\Desarrollo Windows\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.config
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.pdb
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_color_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.change_password_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_history_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.progress_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.loginForm.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_process_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_main_warehouse_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_sale_wizard.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.generic_invoice_wizard.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_config.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.close_day_wizard.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_invoice.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_ticket_wizard.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_close_day.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_products.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pos_form.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.main_window.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pdb
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.config
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.xml
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pdb
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_color_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.change_password_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_history_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.progress_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.loginForm.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_process_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_main_warehouse_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_sale_wizard.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.generic_invoice_wizard.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_config.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.close_day_wizard.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_invoice.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_ticket_wizard.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_close_day.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_products.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pos_form.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.main_window.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.application
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.pdb
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.xml
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\bin\Debug\itextsharp.dll
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.application
+C:\Users\Karen\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karen Morales\Dropbox\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.config
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pdb
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.exe
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.pdb
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\itextsharp.dll
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.outputs_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_color_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.partner_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.change_password_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_history_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.product_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.progress_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.purchase_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.loginForm.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_process_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_main_warehouse_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.inventory_shop_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_sale_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.generic_invoice_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.mail_config.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_special_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.tienda_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.close_day_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_invoice.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.invoice_ticket_wizard.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_close_day.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.salesman_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.expense_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_products.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.pos_form.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.main_window.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.application

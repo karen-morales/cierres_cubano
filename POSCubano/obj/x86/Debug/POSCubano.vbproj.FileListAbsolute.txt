@@ -327,7 +327,6 @@ C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.pdb
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\CubanoAdmin.xml
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\bin\Debug\itextsharp.dll
-C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_tree.resources
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.catalogo_form.resources
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.order_return_line_tree.resources
@@ -372,9 +371,9 @@ C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAd
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.Resources.resources
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.report_sales.resources
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.sales_tree.resources
-C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.licenses
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.TrustInfo.xml
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.exe.manifest
 C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\CubanoAdmin.application
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbprojResolveAssemblyReference.cache
+C:\Users\Karen Morales\Documents\POSCubano_cfdi\POSCubano\obj\x86\Debug\POSCubano.vbproj.GenerateResource.Cache
